@@ -29,6 +29,7 @@
                         Forgot Password?
                     </a>
                 </div>
+            </div>
         </form>
         <a class="flex justify-center mt-5 text-blue-300 hover:text-fuchsia-400" href="/signup.php">No account? Sign up here!</a>
     </div>
